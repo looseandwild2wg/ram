@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Add quantization support to TensorFlow.js converter (#7008)
