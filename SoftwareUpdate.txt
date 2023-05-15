@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Update Discord and Contributing Guide URLs (#9270)
