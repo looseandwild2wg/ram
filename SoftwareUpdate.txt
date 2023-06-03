@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Update pyproject.toml and Docs (#7274)
