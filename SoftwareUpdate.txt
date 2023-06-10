@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
