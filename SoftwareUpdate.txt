@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Update Twitter icon in Docs (#7711)
