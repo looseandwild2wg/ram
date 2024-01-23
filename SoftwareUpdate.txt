@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+New HUB Cloud Training docs page (#8174)
